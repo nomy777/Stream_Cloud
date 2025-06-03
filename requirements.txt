@@ -7,7 +7,7 @@ langchain==0.3.25
 langchain-community>0.0.34
 langchain-openai==0.3.17
 langchain-core==0.3.60
-langchain-google-genai==2.1.4
+langchain-google-genai>2.1.4
 langchain-anthropic==0.3.13
 numpy==1.26.4
 pip==25.1.1
